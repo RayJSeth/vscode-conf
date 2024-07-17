@@ -1,0 +1,51 @@
+{
+    "window.commandCenter": false,
+    "window.title": "${activeRepositoryName}@${activeRepositoryBranchName} > ${activeEditorShort} ${dirty}",
+    "window.menuBarVisibility": "toggle",
+    "window.titleBarStyle": "custom",
+    "window.density.editorTabHeight": "compact",
+  
+    "editor.stickyScroll.enabled": false,
+    "editor.fontLigatures": true,
+    "editor.minimap.enabled": false,
+    "editor.formatOnSave": true,
+    "editor.fontFamily": "'Monaspace Neon', monospace",
+  
+    "workbench.colorTheme": "Popping and Locking",
+    "workbench.layoutControl.enabled": false,
+    "workbench.iconTheme": null,
+    "workbench.statusBar.visible": false,
+    "workbench.activityBar.location": "top",
+    "workbench.startupEditor": "none",
+  
+    "editor.fontSize": 12,
+    "debug.console.fontSize": 12,
+    "terminal.integrated.fontSize": 12,
+  
+    "explorer.compactFolders": false,
+    "breadcrumbs.enabled": false,
+    "redhat.telemetry.enabled": false,
+  
+    "zenMode.fullScreen": false,
+    "zenMode.restore": true,
+    "zenMode.hideLineNumbers": false,
+  
+    "typescript.tsdk": "node_modules/typescript/lib",
+  
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[yaml]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "update.showReleaseNotes": false
+  }
