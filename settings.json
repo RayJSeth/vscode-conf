@@ -29,6 +29,8 @@
     "zenMode.fullScreen": false,
     "zenMode.restore": true,
     "zenMode.hideLineNumbers": false,
+
+    "update.showReleaseNotes": false,
   
     "typescript.tsdk": "node_modules/typescript/lib",
   
@@ -46,6 +48,5 @@
     },
     "[json]": {
       "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "update.showReleaseNotes": false
+    }
   }
